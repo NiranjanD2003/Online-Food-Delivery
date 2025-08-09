@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 🍔 Online Food Delivery Database System
+=======
+Online Food Delivery Database System
+>>>>>>> aa748e5ebe927c5442de25a46960bd52c74ab440
 📌 Project Overview
 This system is designed to manage the core data components of an online food delivery platform — such as customers, restaurants, menu items, orders, delivery agents, and payments — using a fully normalized relational database schema.
 
@@ -68,9 +72,12 @@ Edit
 mysql -u root -p online_food_delivery < insert_sample.sql
 Run queries from queries.sql in Workbench or any MySQL client.
 
+<<<<<<< HEAD
 🔍 ER Diagram
 Below is the Entity-Relationship Diagram for the database:
 
+=======
+>>>>>>> aa748e5ebe927c5442de25a46960bd52c74ab440
 
 
 🙌 Contribution to Heal Bharat
@@ -78,4 +85,8 @@ This project is submitted as part of the Database Technology Task in the interns
 
 Submitted by: Niranjan Desai
 Role: Database Intern
+<<<<<<< HEAD
 Organization: Heal Bharat
+=======
+Organization: Heal Bharat
+>>>>>>> aa748e5ebe927c5442de25a46960bd52c74ab440
